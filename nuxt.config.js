@@ -41,6 +41,6 @@ export default {
   build: {
   },
   router: {
-    base:process.env.BASE
+    base: process.env.BASE
   }
 }
